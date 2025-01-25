@@ -10,7 +10,24 @@
 
 <br clear="both">
 
-<p align="left">🔬 Chemical Engineering Enthusiast with a passion for data science, machine learning<br><br>⚡ Focused on advancing **clean energy technologies** and solving real-world challenges.  <br><br>🎯 Always learning and growing, one project at a time.  <br><br>📫 Connect with me: [YourEmail@example.com]</p>
+<p align="left"># Hello, World! I'm Devam 👨‍💻  
+
+🎓 **Chemical Engineering Student** with a strong interest in **data science**, **machine learning**, and the **energy sector**.  
+
+⚡ Passionate about applying **machine learning** to optimize processes in the **energy** industry and **chemical engineering**.  
+
+🛠️ Currently working on **projects related to data science** and its **application in chemical engineering** and **energy optimization**.  
+
+📚 Completed an internship focused on **reducing CT slice thickness** in medical images using **deep learning** techniques, gaining hands-on experience with **computer vision**.  
+
+📊 Skilled in **data analysis**, **statistical modeling**, and using tools like **Power BI**, **pandas**, and **NumPy** to draw actionable insights.  
+
+💡 Actively exploring **clean energy technologies** and their potential to address real-world challenges in the energy sector.  
+
+📄 **Resume:** [Link to your resume]  
+
+📫 Connect with me: [devampatel948@gmail.com]
+</p>
 
 ###
 
