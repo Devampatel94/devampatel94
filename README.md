@@ -1,83 +1,80 @@
-# 👋 Hi, I'm Devam! 
+<h1 align="left"># 🌟 Hello, World! I'm Devam Patel👨‍💻</h1>
 
-![Banner](https://via.placeholder.com/1000x250.png?text=Welcome+to+My+Profile)
+###
 
-## 🌟 About Me
-Hi there! I'm **Devam**, a passionate third-year undergraduate in **Chemical Engineering** at **IIT Jodhpur**. I'm a multi-faceted individual with diverse interests ranging from engineering and energy to sports and business. I aim to make a significant impact in industries while contributing to the community.
+<div align="center">
+  <img height="293" src="https://user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif"  />
+</div>
 
----
+###
 
-## 🎯 **What I Do**
+<br clear="both">
 
-### 🌐 **Tech & Data Science Enthusiast**
-- Proficient in:
-  - **Programming**: Python, C, C++
-  - **Data Tools**: MySQL, MongoDB, Power BI
-  - **Machine Learning**: Intermediate knowledge of TensorFlow, pandas, and NumPy
-- Projects:
-  - **CT Slice Thickness Reduction** (Internship)
-  - **Anomaly Detection** using Variational Autoencoders
+<p align="left">🔬 Chemical Engineering Enthusiast with a passion for data science, machine learning<br><br>⚡ Focused on advancing **clean energy technologies** and solving real-world challenges.  <br><br>🎯 Always learning and growing, one project at a time.  <br><br>📫 Connect with me: [YourEmail@example.com]</p>
 
-### ⚙️ **Chemical Engineering**
-- Specialized in experiments like **Fractional Distillation Columns**
-- Balancing theory with practical industrial applications
+###
 
-### 🌿 **Sustainability Advocate**
-- Passionate about addressing environmental issues:
-  - Pollution control
-  - Climate change
-  - Industrial sustainability
+<br clear="both">
 
-### 🏀 **Sports Lover**
-- Winner of inter-school **High Jump Competition**
-- Actively engaged in sports for fitness and fun
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=Devampatel94&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=Devampatel94&locale=en&mode=daily&theme=github_dark&hide_border=true&border_radius=5" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Devampatel94&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=false" height="150" alt="languages graph"  />
+</div>
 
-### 💼 **Aspiring Leader**
-- Organizing one-day events like **Chem Konnect**
-- Experience managing **accommodation, transportation, and security** for technical fests
-- Future-focused on becoming a significant player in energy/product industries
+###
 
----
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" height="30" alt="amazonwebservices logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="30" alt="flask logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="mongodb logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="30" alt="numpy logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="30" alt="tensorflow logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/astro/FF5D01" height="30" alt="astro logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/pandas/150458" height="30" alt="pandas logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=matlab" height="30" alt="matlab logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=postman" height="30" alt="postman logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/jupyter/F37626" height="30" alt="jupyter logo"  />
+</div>
 
-## ✨ **Hobbies & Interests**
-- **Movies & Shows**: Breaking Bad, Stranger Things, Peaky Blinders, and more
-- **Travel**: Love exploring places like **Udaipur**
-- **Books & Learning**: Deep dive into **business strategies** and **current affairs**
+###
 
----
+<div align="left">
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+</div>
 
-## 🛠️ **Skills**
+###
 
-| **Category**          | **Skills**                       |
-|-----------------------|----------------------------------|
-| **Programming**       | Python, C, C++                  |
-| **Data Science**      | pandas, NumPy, TensorFlow       |
-| **Visualization**     | Power BI, Matplotlib, Seaborn   |
-| **Chemical Engineering** | Heat Transfer, Fractional Distillation |
+<br clear="both">
 
----
+<img src="https://raw.githubusercontent.com/Devampatel94/Devampatel94/output/snake.svg" alt="Snake animation" />
 
-## 📊 **GitHub Stats**
+###
 
-![Devam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=radical)
+<br clear="both">
 
----
+<img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=Devampatel94.Devampatel94&"  />
 
-## 📸 **Gallery**
-Here’s a glimpse of my journey:
-
-![Image Placeholder](https://via.placeholder.com/200x200.png?text=Add+Photo+Here) ![Image Placeholder](https://via.placeholder.com/200x200.png?text=Add+Photo+Here)
-
----
-
-## 📫 **Connect with Me**
-
-- **LinkedIn**: [Your Profile](https://linkedin.com/in/your-profile)
-- **Email**: [your-email@example.com](mailto:your-email@example.com)
-- **GitHub**: [Your GitHub](https://github.com/YourGitHubUsername)
-
----
-
-### 🚀 **Let’s Collaborate!**
-I’m always open to exploring new opportunities, working on exciting projects, and discussing innovative ideas. Reach out and let’s make something amazing together!
-
+###
