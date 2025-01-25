@@ -1,4 +1,4 @@
-<h1 align="left"># 🌟 Hello, World! I'm Devam Patel👨‍💻</h1>
+<h1 align="left"> 🌟 Hello, World! I'm Devam Patel👨‍💻</h1>
 
 ###
 
@@ -10,9 +10,7 @@
 
 <br clear="both">
 
-<p align="left">👨‍💻  
-
-# Hello, World! I'm Devam 👨‍💻  
+<p align="left">
 
 🎓 **Chemical Engineering Student** passionate about **data science** and **machine learning**.  
 
