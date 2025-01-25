@@ -1,33 +1,34 @@
-name: Update Snake Animation
+name: Generate snake animation
 
 on:
-  schedule:
-    # Runs once every day at midnight UTC
-    - cron: '0 0 * * *'
+  schedule: # execute every 12 hours
+    - cron: "0 */12 * * *"  # Runs at the start of every 12th hour
   workflow_dispatch:
+  push:
+    branches:
+      - main  # Replace `master` with `main` if that is your default branch
 
 jobs:
-  update-snake:
+  generate:
+    permissions:
+      contents: write  # Required to push the generated file to the output branch
     runs-on: ubuntu-latest
+    timeout-minutes: 5
+
     steps:
-    - name: Checkout Repository
-      uses: actions/checkout@v2
-    
-    - name: Update Snake SVG
-      uses: Platane/snk@v2
-      with:
-        github_user: Devampatel94
-        svg_out_path: ./snake.svg
-        # Optional: specify the theme for the snake animation (default is 'github')
-        theme: github
-        # Optional: change the size of the animation (default is 500px x 500px)
-        size: 500
-        # Optional: adjust the padding (default is 10px)
-        padding: 5
-    
-    - name: Commit and Push Changes
-      uses: EndBug/add-and-commit@v7
-      with:
-        author_name: 'GitHub Actions'
-        author_email: 'github-actions[bot]@users.noreply.github.com'
-        message: 'Update snake animation'
+      - name: Checkout repository
+        uses: actions/checkout@v2  # Ensures the repo is available for updates
+
+      - name: Generate snake.svg
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: dist/snake.svg?palette=github-dark  # Ensure the path is correct
+
+      - name: Push snake.svg to the output branch
+        uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          target_branch: output  # Specify the branch to push to (usually `output`)
+          build_dir: dist  # Make sure the generated snake.svg is in the `dist` directory
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}  # Ensure the GITHUB_TOKEN has write permissions
