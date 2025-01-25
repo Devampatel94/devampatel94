@@ -10,23 +10,26 @@
 
 <br clear="both">
 
-<p align="left"># Hello, World! I'm Devam 👨‍💻  
+<p align="left">👨‍💻  
 
-🎓 **Chemical Engineering Student** with a strong interest in **data science**, **machine learning**, and the **energy sector**.  
+# Hello, World! I'm Devam 👨‍💻  
 
-⚡ Passionate about applying **machine learning** to optimize processes in the **energy** industry and **chemical engineering**.  
+🎓 **Chemical Engineering Student** passionate about **data science** and **machine learning**.  
 
-🛠️ Currently working on **projects related to data science** and its **application in chemical engineering** and **energy optimization**.  
+⚡ Ready to apply **data science** and **machine learning** to solve real-world problems in **any sector**—from **chemical engineering** to **energy** and beyond.  
 
-📚 Completed an internship focused on **reducing CT slice thickness** in medical images using **deep learning** techniques, gaining hands-on experience with **computer vision**.  
+🛠️ Currently working on **data-driven projects**, enhancing my skills in **machine learning**, **statistical analysis**, and problem-solving.  
 
-📊 Skilled in **data analysis**, **statistical modeling**, and using tools like **Power BI**, **pandas**, and **NumPy** to draw actionable insights.  
+📚 Completed a research internship using **deep learning** and **computer vision** to improve medical imaging at IIT Jodhpur.  
 
-💡 Actively exploring **clean energy technologies** and their potential to address real-world challenges in the energy sector.  
+📊 Skilled in **data analysis** with tools like **Power BI**, **pandas**, and **NumPy**.  
 
-📄 **Resume:** [Link to your resume]  
+💡 Currently exploring **data science** applications in **chemical engineering** and **energy** to create impactful solutions.  
+
+📄 **Resume:** [[Link to your resume](https://drive.google.com/file/d/1gX54IFzzxzPvavxbKS68YUF889rhrWSI/view?usp=drive_link)]  
 
 📫 Connect with me: [devampatel948@gmail.com]
+
 </p>
 
 ###
