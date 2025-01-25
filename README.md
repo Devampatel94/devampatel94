@@ -16,7 +16,7 @@
 
 🎓 **Chemical Engineering Student** passionate about **data science** and **machine learning**.  
 
-⚡ Ready to apply **data science** and **machine learning** to solve real-world problems in **any sector**—from **chemical engineering** to **energy** and beyond.  
+⚡ Ready to apply **data science** and **machine learning** to solve real-world problems.  
 
 🛠️ Currently working on **data-driven projects**, enhancing my skills in **machine learning**, **statistical analysis**, and problem-solving.  
 
